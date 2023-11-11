@@ -1,3 +1,7 @@
+- name: feelsbadman
+  strings:
+    - ":feelsbadman:"
+  location: "assets/pepe/feelsbadman.png"
 - name: monkas
   strings:
     - ":monkas:"
