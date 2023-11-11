@@ -1,0 +1,76 @@
+- name: thonk
+  strings:
+    - ":thonk:"
+  location: "assets/discord/thonk.png"
+- name: thonkbutcool
+  strings:
+    - ":thonkbutcool:"
+  location: "assets/discord/thonkbutcool.png"
+- name: balance
+  strings:
+    - ":balance:"
+  location: "assets/discord/balance.png"
+- name: lul
+  strings:
+    - ":lul:"
+  location: "assets/discord/lul.png"
+- name: oof
+  strings:
+    - ":oof:"
+  location: "assets/discord/oof.png"
+- name: ohno
+  strings:
+    - ":ohno:"
+  location: "assets/discord/ohno.png"
+- name: zoomeyes
+  strings:
+    - ":zoomeyes:"
+  location: "assets/discord/zoomeyes.png"
+- name: dunno
+  strings:
+    - ":dunno:"
+  location: "assets/discord/dunno.png"
+- name: eyy
+  strings:
+    - ":eyy:"
+  location: "assets/discord/eyy.png"
+- name: smarts
+  strings:
+    - ":smarts:"
+  location: "assets/discord/smarts.png"
+- name: thraw
+  strings:
+    - ":thraw:"
+  location: "assets/discord/thraw.png"
+- name: catjam
+  strings:
+    - ":catjam:"
+  location: "assets/discord/catjam.gif"
+- name: bongocat
+  strings:
+    - ":bongocat:"
+  location: "assets/discord/bongocat.gif"
+- name: dab
+  strings:
+    - ":dab:"
+  location: "assets/discord/dab.png"
+- name: picardfacepalm
+  strings:
+    - ":picardfacepalm:"
+  location: "assets/discord/picardfacepalm.png"
+- name: squirr
+  strings:
+    - ":squirr:"
+  location: "assets/discord/squirr.png"
+- name: pog
+  strings:
+    - ":pog:"
+  location: "assets/discord/pog.png"
+- name: scyes
+  strings:
+    - ":scyes:"
+  location: "assets/discord/scyes.gif"
+- name: bigmlem
+  strings:
+    - ":mlembig:"
+  location: "assets/discord/bigmlem.png"
